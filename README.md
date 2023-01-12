@@ -1,8 +1,5 @@
 # DeepLearning
-
 ![](https://img.shields.io/badge/-Notion-000000?&logo=Notion&logoColor=white)
----
----
 1. 딥러닝 입문<br>
 https://dorae222.notion.site/Basic-for-Deep-Learning-d47b7693e9dd4cbcbaba5e12b7306c7a<br>
 2. 딥러닝 초급<br>
